@@ -16,4 +16,4 @@ L'objectif est de mettre en place un appel API pour créer un point de charge. C
 ## Spécifications techniques
 * Langage de programmation: Node.js/TypeScript
 * Framework: Express.js
-* Base de donnée Postgresql
+* Base de données: PostgreSQL
