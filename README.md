@@ -1,4 +1,4 @@
-# FAROD
+# FAROAD
 Exercice technique / fonctionnel utilisé par FAROAD pour ses recrutements
 
 ## Contexte
